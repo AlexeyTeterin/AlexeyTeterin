@@ -15,6 +15,12 @@ SPA to track Covid-19 statistics by country.
 English word study SPA for children.
 ###### `JavaScript` `Custom design` `CSS-animations`
 
+### Gem puzzle
+[alexeyteterin-gem-puzzle.netlify.app/gem-puzzle/](https://alexeyteterin-gem-puzzle.netlify.app/gem-puzzle/)
+**[`Pull Request`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/pull/2)**
+Puzzle game with customizable field options (size, background image), score and autoplay.
+###### `JavaScript` `ESLint`
+
 ### Virtual Keyboard
 [alexeyteterin-keyboard.netlify.app/keyboard](https://alexeyteterin-keyboard.netlify.app/keyboard/)
 **[`Repo`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/tree/keyboard)**  
