@@ -4,7 +4,7 @@
 
 ### Covid-19 Dashboard
 [alexeyteterin-covid-dashboard.netlify.app](https://alexeyteterin-covid-dashboard.netlify.app/)
-**[`Pull Request`](https://github.com/AlexeyTeterin/covid-dashboard/pull/15)**  
+**[`Repo`](https://github.com/AlexeyTeterin/covid-dashboard/tree/develop)**  
 SPA to track Covid-19 statistics by country.
 ###### `JavaScript` `REST API` `Webpack` `Chart.js` `Leaflet` `Custom UI`
 
