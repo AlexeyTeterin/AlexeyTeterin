@@ -11,7 +11,7 @@ SPA to track Covid-19 statistics by country.
 
 ### English for Kids
 [teterin-english-for-kids.netlify.app](https://teterin-english-for-kids.netlify.app/)
-**[`Pull Request`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/pull/1)**  
+**[`Repo`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/tree/english-for-kids)**  
 English word study SPA for children.
 ###### `JavaScript` `Custom UI` `CSS-animations`
 
