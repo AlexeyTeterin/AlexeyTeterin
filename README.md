@@ -3,5 +3,6 @@
 ## My projects:
 
 ### Covid-19 Dashboard
-[alexeyteterin-covid-dashboard.netlify.app](https://alexeyteterin-covid-dashboard.netlify.app/) [`Code`](https://github.com/AlexeyTeterin/covid-dashboard/pull/15)
+[alexeyteterin-covid-dashboard.netlify.app](https://alexeyteterin-covid-dashboard.netlify.app/)
+[`Code`](https://github.com/AlexeyTeterin/covid-dashboard/pull/15)  
 SPA to track Covid-19 statistics by country.
