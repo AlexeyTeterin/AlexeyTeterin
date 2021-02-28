@@ -18,5 +18,11 @@ English word study SPA for children.
 ### Virtual Keyboard
 [alexeyteterin-keyboard.netlify.app/keyboard](https://alexeyteterin-keyboard.netlify.app/keyboard/)
 **[`Repo`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/tree/keyboard)**  
-A keyboard with speech recognition.
+Keyboard with speech recognition.
 ###### `JavaScript` `Web Speech API` `SCSS`
+
+### Shelter
+[alexeyteterin-shelter.netlify.app/shelter](https://alexeyteterin-shelter.netlify.app/shelter/)
+**[`Repo`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/tree/shelter)**
+Adaptive multi-page site with custom pagination
+###### `HTML` `SCSS` `JavaScript`
