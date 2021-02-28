@@ -24,7 +24,7 @@ Puzzle game with customizable field options (size, background image), score and 
 ### Virtual Keyboard
 [alexeyteterin-keyboard.netlify.app/keyboard](https://alexeyteterin-keyboard.netlify.app/keyboard/)
 **[`Repo`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/tree/keyboard)**  
-Keyboard with speech recognition.
+Keyboard on clean JS with speech recognition.
 ###### `JavaScript` `Web Speech API` `SASS`
 
 ### Shelter
