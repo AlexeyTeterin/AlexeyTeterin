@@ -23,6 +23,6 @@ Keyboard with speech recognition.
 
 ### Shelter
 [alexeyteterin-shelter.netlify.app/shelter](https://alexeyteterin-shelter.netlify.app/shelter/)
-**[`Repo`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/tree/shelter)**
+**[`Repo`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/tree/shelter)**  
 Adaptive multi-page site with custom pagination
 ###### `HTML` `SCSS` `JavaScript`
