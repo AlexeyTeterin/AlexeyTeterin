@@ -18,7 +18,7 @@ English word study SPA for children with 'train' and 'play' modes and statistics
 ### Gem puzzle
 [alexeyteterin-gem-puzzle.netlify.app/gem-puzzle/](https://alexeyteterin-gem-puzzle.netlify.app/gem-puzzle/)
 **[`Repo`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/tree/gem-puzzle)**  
-Puzzle game with customizable field options (size, background image), score and solution autoplay.  
+Puzzle game with customizable field options (size, background image), score board and animated solution.  
 ###### `JavaScript` `Custom UI` `SASS`
 
 ### Virtual Keyboard
