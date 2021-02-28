@@ -18,7 +18,7 @@ English word study SPA for children.
 ### Gem puzzle
 [alexeyteterin-gem-puzzle.netlify.app/gem-puzzle/](https://alexeyteterin-gem-puzzle.netlify.app/gem-puzzle/)
 **[`Pull Request`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/pull/2)**
-Puzzle game with customizable field options (size, background image), score and autoplay.
+Puzzle game with customizable field options (size, background image), score and autoplay.  
 ###### `JavaScript` `ESLint`
 
 ### Virtual Keyboard
