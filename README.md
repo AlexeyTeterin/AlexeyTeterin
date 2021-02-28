@@ -12,13 +12,13 @@ SPA to track Covid-19 statistics by country.
 ### English for Kids
 [teterin-english-for-kids.netlify.app](https://teterin-english-for-kids.netlify.app/)
 **[`Repo`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/tree/english-for-kids)**  
-English word study SPA for children.
+English word study SPA for children with 'train'/'play' mode and statistics.
 ###### `JavaScript` `Custom UI` `CSS-animations`
 
 ### Gem puzzle
 [alexeyteterin-gem-puzzle.netlify.app/gem-puzzle/](https://alexeyteterin-gem-puzzle.netlify.app/gem-puzzle/)
 **[`Repo`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/tree/gem-puzzle)**  
-Puzzle game with customizable field options (size, background image), score and autoplay.  
+Puzzle game with customizable field options (size, background image), score and solution autoplay.  
 ###### `JavaScript` `Custom UI` `SASS`
 
 ### Virtual Keyboard
