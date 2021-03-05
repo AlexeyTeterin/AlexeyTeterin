@@ -20,6 +20,7 @@ Now I'm looking for a team that will benefit from me as a frontend developer, an
 **[`Repo`](https://github.com/AlexeyTeterin/react-game)**  
 
 A simple tic-tac-toe game with moves history, keyboard controls, customizable UI, board size and audio settings.  
+
 `TypeScript` `React` `Redux` `Ant Design`
 
 ### Covid-19 Dashboard
@@ -27,6 +28,7 @@ A simple tic-tac-toe game with moves history, keyboard controls, customizable UI
 **[`Repo`](https://github.com/AlexeyTeterin/covid-dashboard/tree/develop)**  
 
 SPA to track Covid-19 statistics by country.  
+
 `JavaScript` `REST API` `Webpack` `Chart.js` `Leaflet` `Custom UI`
 
 
