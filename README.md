@@ -4,7 +4,7 @@ I like to write not just working, but clean code.
 I get a lot of pleasure from developing usable and good-looking apps.  
 Now I'm looking for a team that will benefit from me as a frontend developer, and that will encourage me to grow professionally.
 
-<img align="center" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=alexeyteterin&hide=stars,issues,contribs&show_icons=true&theme=slateorange&count_private=true)](https://github.com/anuraghazra/github-readme-stats" />
+<img align="center" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=alexeyteterin&hide=stars,issues,contribs&show_icons=true&theme=slateorange&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats" />
 
 # My skills:
 
