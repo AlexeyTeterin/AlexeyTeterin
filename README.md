@@ -18,6 +18,7 @@ Now I'm looking for a team that will benefit from me as a frontend developer, an
 ### Tic-tac-toe
 [teterin-tic-tac-toe.netlify.app](https://teterin-tic-tac-toe.netlify.app/)
 **[`Repo`](https://github.com/AlexeyTeterin/react-game)**  
+
 Tic-tac-toe game on React/TypeScript with:
 - moves history,
 - keyboard controls,
