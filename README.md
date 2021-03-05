@@ -20,7 +20,7 @@ Now I'm looking for a team that will benefit from me as a frontend developer, an
 **[`Repo`](https://github.com/AlexeyTeterin/react-game)**  
 
 A simple tic-tac-toe game with moves history, keyboard controls, customizable UI, board size and audio settings.  
-###### `TypeScript` `React` `Redux` `Ant Design`
+<span style="color:blue"> `TypeScript` `React` `Redux` `Ant Design`</span>
 
 ### Covid-19 Dashboard
 **[`Deploy`](https://alexeyteterin-covid-dashboard.netlify.app/)**
