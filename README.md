@@ -17,7 +17,7 @@ Now I'm looking for a team that will benefit from me as a frontend developer, an
 
 ### Tic-tac-toe 
 **[`Deploy`](https://teterin-tic-tac-toe.netlify.app/)**
-[`Repo`](https://github.com/AlexeyTeterin/react-game)  
+**[`Repo`](https://github.com/AlexeyTeterin/react-game)**  
 
 A simple tic-tac-toe game with moves history, keyboard controls, customizable UI, board size and audio settings.
 ###### `TypeScript` `React` `Redux` `Ant Design`
@@ -30,25 +30,25 @@ SPA to track Covid-19 statistics by country.
 
 
 ### English for Kids
-[teterin-english-for-kids.netlify.app](https://teterin-english-for-kids.netlify.app/)
+**[`Deploy`](https://teterin-english-for-kids.netlify.app/)**
 **[`Repo`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/tree/english-for-kids)**  
 English word study SPA for children with 'train' and 'play' modes and statistics.
 ###### `JavaScript` `Custom UI` `CSS-animations`
 
 ### Gem puzzle
-[alexeyteterin-gem-puzzle.netlify.app/gem-puzzle/](https://alexeyteterin-gem-puzzle.netlify.app/gem-puzzle/)
+**[`Deploy`](https://alexeyteterin-gem-puzzle.netlify.app/gem-puzzle/)**
 **[`Repo`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/tree/gem-puzzle)**  
 Puzzle game with customizable field options (size, background image), score board and animated solution.  
 ###### `JavaScript` `Custom UI` `SASS`
 
 ### Virtual Keyboard
-[alexeyteterin-keyboard.netlify.app/keyboard](https://alexeyteterin-keyboard.netlify.app/keyboard/)
+**[`Deploy`](https://alexeyteterin-keyboard.netlify.app/keyboard/)**
 **[`Repo`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/tree/keyboard)**  
 Keyboard on clean JS with speech recognition.
 ###### `JavaScript` `Web Speech API` `SASS`
 
 ### Shelter
-[alexeyteterin-shelter.netlify.app/shelter](https://alexeyteterin-shelter.netlify.app/shelter/)
+**[`Deploy`](https://alexeyteterin-shelter.netlify.app/shelter/)**
 **[`Repo`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/tree/shelter)**  
 Adaptive multi-page site with custom pagination.
 ###### `HTML` `SASS` `JavaScript`
