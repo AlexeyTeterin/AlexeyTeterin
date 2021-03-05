@@ -8,7 +8,7 @@ Now I'm looking for a team that will benefit from me as a frontend developer, an
 
 # My skills:
 
-###### `JavaScript` `TypeScript`
+###### `JavaScript` `TypeScript` `React` `HTML` `SASS` `Webpack`
 
 # My projects:
 
