@@ -21,9 +21,7 @@ A simple tic-tac-toe game with moves history, keyboard controls, customizable UI
 
 `TypeScript` `React` `Redux` `Ant Design`
 
-### Covid-19 Dashboard
-**[`Deploy`](https://alexeyteterin-covid-dashboard.netlify.app/)**
-**[`Repo`](https://github.com/AlexeyTeterin/covid-dashboard/tree/develop)**  
+### Covid-19 Dashboard [`Deploy`](https://alexeyteterin-covid-dashboard.netlify.app/) [`Repo`](https://github.com/AlexeyTeterin/covid-dashboard/tree/develop)  
 
 SPA to track Covid-19 statistics by country.  
 
