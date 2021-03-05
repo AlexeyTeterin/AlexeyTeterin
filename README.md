@@ -15,7 +15,8 @@ Now I'm looking for a team that will benefit from me as a frontend developer, an
 
 # My projects:
 
-### Tic-tac-toe [`Deploy`](https://teterin-tic-tac-toe.netlify.app/)
+### Tic-tac-toe 
+**[`Deploy`](https://teterin-tic-tac-toe.netlify.app/)**
 **[`Repo`](https://github.com/AlexeyTeterin/react-game)**  
 A simple tic-tac-toe game with:
 - moves history,
