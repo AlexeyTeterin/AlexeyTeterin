@@ -1,6 +1,5 @@
 
 <img align="right" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=alexeyteterin&hide=stars,issues,contribs&show_icons=true&theme=slateorange&include_all_commits=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats" />
-
 Hi!  
 My name is Alexey and I am a novice frontend developer.  
 I like to write not just working, but clean code.  
