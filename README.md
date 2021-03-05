@@ -37,6 +37,7 @@ SPA to track Covid-19 statistics by country.
 **[`Repo`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/tree/english-for-kids)**  
 
 English word study SPA for children with 'train' and 'play' modes and statistics.  
+
 `JavaScript` `Custom UI` `CSS-animations`
 
 ### Gem puzzle
@@ -51,6 +52,7 @@ Puzzle game with customizable field options (size, background image), score boar
 **[`Repo`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/tree/keyboard)**  
 
 Keyboard on clean JS with speech recognition.  
+
 `JavaScript` `Web Speech API` `SASS`
 
 ### Shelter
@@ -58,4 +60,5 @@ Keyboard on clean JS with speech recognition.
 **[`Repo`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/tree/shelter)**  
 
 Adaptive multi-page site with custom pagination.  
+
 `HTML` `SASS` `JavaScript`
