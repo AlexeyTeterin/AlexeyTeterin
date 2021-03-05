@@ -15,6 +15,15 @@ Now I'm looking for a team that will benefit from me as a frontend developer, an
 
 # My projects:
 
+### Tic-tac-toe
+[teterin-tic-tac-toe.netlify.app](https://teterin-tic-tac-toe.netlify.app/)
+**[`Repo`](https://github.com/AlexeyTeterin/react-game)**  
+Tic-tac-toe game on React with:
+- moves history,
+- keyboard controls,
+- customizable UI, board size and audio settings.
+###### `TypeScript` `React` `Redux` `Ant Design`
+
 ### Covid-19 Dashboard
 [alexeyteterin-covid-dashboard.netlify.app](https://alexeyteterin-covid-dashboard.netlify.app/)
 **[`Repo`](https://github.com/AlexeyTeterin/covid-dashboard/tree/develop)**  
