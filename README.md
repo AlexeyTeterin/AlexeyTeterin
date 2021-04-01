@@ -35,7 +35,7 @@ An app to search info about movies.
 
 ### Covid-19 Dashboard [`Deploy`](https://alexeyteterin-covid-dashboard.netlify.app/) [`Repo`](https://github.com/AlexeyTeterin/covid-dashboard/tree/develop)  
 
-SPA to track Covid-19 statistics by country. Сreated in a team of 4 people.
+SPA to track Covid-19 statistics by country. Сreated in a team of 2 people.
 
 `JavaScript` `REST API` `Webpack` `Chart.js` `Leaflet` `Custom UI`
 
