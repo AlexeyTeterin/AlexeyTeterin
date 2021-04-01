@@ -27,7 +27,7 @@ A simple tic-tac-toe game with moves history, keyboard controls, customizable UI
 
 `TypeScript` `React` `Redux` `MVC` `Ant Design`
 
-### VideoBox **[`Deploy`](https://videobox.netlify.app/)** **[`Repo`](https://github.com/AlexeyTeterin/rsclone/pull/1)**  
+### VideoBox **[`Deploy`](https://videobox.netlify.app/)** **[`Repo`](https://github.com/AlexeyTeterin/rsclone/tree/develop)**  
 
 An app to search info about movies.
 
