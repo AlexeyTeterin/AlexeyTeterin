@@ -15,50 +15,50 @@ Now I'm looking for a team that will benefit from me as a frontend developer, an
 
 # My projects:
 
-### Travel App **[`Deploy`](https://lbratkovskaya-travel-app.netlify.app/#/)** **[`Repo`](https://github.com/lbratkovskaya/travel-app/pull/32)**  
+### Travel App **[`Demo`](https://lbratkovskaya-travel-app.netlify.app/#/)** **[`Repo`](https://github.com/lbratkovskaya/travel-app/pull/32)**  
 
 An app for virtual travel around the world. Сreated in a team of 4 people.
 
 `Teamwork` `TypeScript` `React` `Redux` `MongoDB` `Node.js` `Express` `Material UI`
 
-### Tic-tac-toe **[`Deploy`](https://teterin-tic-tac-toe.netlify.app/)** **[`Repo`](https://github.com/AlexeyTeterin/react-game)**  
+### Tic-tac-toe **[`Demo`](https://teterin-tic-tac-toe.netlify.app/)** **[`Repo`](https://github.com/AlexeyTeterin/react-game)**  
 
 A simple tic-tac-toe game with moves history, keyboard controls, customizable UI, board size and audio settings.  
 
 `TypeScript` `React` `Redux` `MVC` `Ant Design`
 
-### VideoBox **[`Deploy`](https://videobox.netlify.app/)** **[`Repo`](https://github.com/AlexeyTeterin/rsclone/tree/develop)**  
+### VideoBox **[`Demo`](https://videobox.netlify.app/)** **[`Repo`](https://github.com/AlexeyTeterin/rsclone/tree/develop)**  
 
 An app to search info about movies.
 
 `TypeScript` `REST API` `Webpack` `Bootstrap`
 
-### Covid-19 Dashboard [`Deploy`](https://alexeyteterin-covid-dashboard.netlify.app/) [`Repo`](https://github.com/AlexeyTeterin/covid-dashboard/tree/develop)  
+### Covid-19 Dashboard [`Demo`](https://alexeyteterin-covid-dashboard.netlify.app/) [`Repo`](https://github.com/AlexeyTeterin/covid-dashboard/tree/develop)  
 
 SPA to track Covid-19 statistics by country. Сreated in a team of 2 people.
 
 `JavaScript` `REST API` `Webpack` `Chart.js` `Leaflet` `Custom UI`
 
 
-### English for Kids **[`Deploy`](https://teterin-english-for-kids.netlify.app/)** **[`Repo`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/tree/english-for-kids)**  
+### English for Kids **[`Demo`](https://teterin-english-for-kids.netlify.app/)** **[`Repo`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/tree/english-for-kids)**  
 
 English word study SPA for children with 'train' and 'play' modes and statistics.  
 
 `JavaScript` `Custom UI` `CSS-animations`
 
-### Gem puzzle **[`Deploy`](https://alexeyteterin-gem-puzzle.netlify.app/gem-puzzle/)** **[`Repo`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/tree/gem-puzzle)**  
+### Gem puzzle **[`Demo`](https://alexeyteterin-gem-puzzle.netlify.app/gem-puzzle/)** **[`Repo`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/tree/gem-puzzle)**  
 
 Puzzle game with customizable field options (size, background image), score board and animated solution.  
 
 `JavaScript` `Custom UI` `SASS`
 
-### Virtual Keyboard **[`Deploy`](https://alexeyteterin-keyboard.netlify.app/keyboard/)** **[`Repo`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/tree/keyboard)**  
+### Virtual Keyboard **[`Demo`](https://alexeyteterin-keyboard.netlify.app/keyboard/)** **[`Repo`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/tree/keyboard)**  
 
 Keyboard on clean JS with speech recognition.  
 
 `JavaScript` `Web Speech API` `SASS`
 
-### Shelter **[`Deploy`](https://alexeyteterin-shelter.netlify.app/shelter/)** **[`Repo`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/tree/shelter)**  
+### Shelter **[`Demo`](https://alexeyteterin-shelter.netlify.app/shelter/)** **[`Repo`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/tree/shelter)**  
 
 Adaptive multi-page site with custom pagination.  
 
