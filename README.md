@@ -15,6 +15,12 @@ Now I'm looking for a team that will benefit from me as a frontend developer, an
 
 # My projects:
 
+### Travel App **[`Deploy`](https://lbratkovskaya-travel-app.netlify.app/#/)** **[`Repo`](https://github.com/lbratkovskaya/travel-app/pull/32)**  
+
+An app for virtual travel around the world. Сreated in a team of 4 people.
+
+`Teamwork` `TypeScript` `React` `Redux` `Material UI`
+
 ### Tic-tac-toe **[`Deploy`](https://teterin-tic-tac-toe.netlify.app/)** **[`Repo`](https://github.com/AlexeyTeterin/react-game)**  
 
 A simple tic-tac-toe game with moves history, keyboard controls, customizable UI, board size and audio settings.  
