@@ -27,6 +27,12 @@ A simple tic-tac-toe game with moves history, keyboard controls, customizable UI
 
 `TypeScript` `React` `Redux` `MVC` `Ant Design`
 
+### VideoBox **[`Deploy`](https://videobox.netlify.app/)** **[`Repo`](https://github.com/AlexeyTeterin/rsclone/pull/1)**  
+
+An app to search info about movies.
+
+`TypeScript` `REST API` `Webpack` `Bootstrap`
+
 ### Covid-19 Dashboard [`Deploy`](https://alexeyteterin-covid-dashboard.netlify.app/) [`Repo`](https://github.com/AlexeyTeterin/covid-dashboard/tree/develop)  
 
 SPA to track Covid-19 statistics by country.  
