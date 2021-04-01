@@ -19,7 +19,7 @@ Now I'm looking for a team that will benefit from me as a frontend developer, an
 
 An app for virtual travel around the world. Сreated in a team of 4 people.
 
-`Teamwork` `TypeScript` `React` `Redux` `MongoDB` `Node.js` `Express` `Material UI`
+`Teamwork` `TypeScript` `React` `Redux` `MongoDB` `Node.js` `Express` `Webpack` `Material UI`
 
 ### Tic-tac-toe **[`Demo`](https://teterin-tic-tac-toe.netlify.app/)** **[`Repo`](https://github.com/AlexeyTeterin/react-game)**  
 
