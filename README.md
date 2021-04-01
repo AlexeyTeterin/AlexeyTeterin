@@ -19,7 +19,7 @@ Now I'm looking for a team that will benefit from me as a frontend developer, an
 
 An app for virtual travel around the world. Сreated in a team of 4 people.
 
-`Teamwork` `TypeScript` `React` `Redux` `MongoDB` `Node.js` `Express` `Webpack` `Material UI`
+`TypeScript` `React` `Redux` `MongoDB` `Node.js` `Express` `Webpack` `Material UI`
 
 ### Tic-tac-toe **[`Demo`](https://teterin-tic-tac-toe.netlify.app/)** **[`Repo`](https://github.com/AlexeyTeterin/react-game)**  
 
@@ -37,7 +37,7 @@ An app to search info about movies.
 
 SPA to track Covid-19 statistics by country. Сreated in a team of 2 people.
 
-`Teamwork` `JavaScript` `REST API` `Webpack` `Chart.js` `Leaflet` `Custom UI`
+`JavaScript` `REST API` `Webpack` `Chart.js` `Leaflet` `Custom UI`
 
 
 ### English for Kids **[`Demo`](https://teterin-english-for-kids.netlify.app/)** **[`Repo`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/tree/english-for-kids)**  
