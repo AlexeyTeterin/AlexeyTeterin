@@ -37,7 +37,7 @@ An app to search info about movies.
 
 SPA to track Covid-19 statistics by country. Сreated in a team of 2 people.
 
-`JavaScript` `REST API` `Webpack` `Chart.js` `Leaflet` `Custom UI`
+`Teamwork` `JavaScript` `REST API` `Webpack` `Chart.js` `Leaflet` `Custom UI`
 
 
 ### English for Kids **[`Demo`](https://teterin-english-for-kids.netlify.app/)** **[`Repo`](https://github.com/AlexeyTeterin/rsschool-JS2020Q3/tree/english-for-kids)**  
