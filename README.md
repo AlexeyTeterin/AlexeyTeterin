@@ -3,7 +3,7 @@
 </a>
 
 Hi!  
-My name is Alexey and I am a novice frontend developer.  
+My name is Alexey and I am a frontend developer.  
 I like to write not just working, but clean code.  
 I get a lot of pleasure from developing usable and good-looking apps.  
 
