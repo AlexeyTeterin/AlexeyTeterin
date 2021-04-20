@@ -15,7 +15,7 @@ Now I'm looking for a team that will benefit from me as a frontend developer, an
 
 # My projects:
 
-### RS Lang **[`Demo`](https://rslang-team2-lbratkovskaya.netlify.app/)** **[`Repo`](https://github.com/lbratkovskaya/rslang/pull/49)**  
+### RSCoon English **[`Demo`](https://rslang-team2-lbratkovskaya.netlify.app/)** **[`Repo`](https://github.com/lbratkovskaya/rslang/pull/49)**  
 
 Application for learning English with a dictionary of 4000 words, mini-games, user dictionary and statistics. Created in a team of six.
 
