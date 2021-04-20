@@ -15,9 +15,15 @@ Now I'm looking for a team that will benefit from me as a frontend developer, an
 
 # My projects:
 
+### RS Lang **[`Demo`](https://rslang-team2-lbratkovskaya.netlify.app/)** **[`Repo`](https://github.com/lbratkovskaya/rslang/pull/49)**  
+
+Application for learning English with a dictionary of 4000 words, mini-games, user dictionary and statistics. Created in a team of six.
+
+`TypeScript` `React` `Redux` `Webpack` `Material UI`
+
 ### Travel App **[`Demo`](https://lbratkovskaya-travel-app.netlify.app/#/)** **[`Repo`](https://github.com/lbratkovskaya/travel-app/pull/32)**  
 
-An app for virtual travel around the world. Сreated in a team of 4 people.
+An app for virtual travel around the world. Сreated in a team of four.
 
 `TypeScript` `React` `Redux` `MongoDB` `Node.js` `Express` `Webpack` `Material UI`
 
