@@ -7,8 +7,6 @@ My name is Alexey and I am a frontend developer.
 I like to write not just working, but clean code.  
 I get a lot of pleasure from developing usable and good-looking apps.  
 
-Now I'm looking for a team that will benefit from me as a frontend developer, and that will encourage me to grow professionally.
-
 # My skills:
 
 #### `JavaScript` `TypeScript` `React` `HTML` `SASS` `Webpack`
